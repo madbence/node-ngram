@@ -1,6 +1,6 @@
 # ngram [![Build Status](https://travis-ci.org/madbence/node-ngram.svg)](https://travis-ci.org/madbence/node-ngram)
 
-Create [ngram]() tokens from a string. ES6 generators are supported!
+Create [ngram](http://en.wikipedia.org/wiki/N-gram) tokens from a string. ES6 generators are supported!
 
 ## Install
 
