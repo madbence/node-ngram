@@ -1,0 +1,27 @@
+{
+  "name": "ngram",
+  "version": "1.0.0",
+  "description": "generate ngram tokens from a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "test-bg": "mocha -w",
+    "test-es6": "mocha --harmony test-es6/*",
+    "test-es6-bg": "mocha --harmony -w test-es6/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/madbence/node-ngram"
+  },
+  "keywords": [
+    "ngram",
+    "tokenizer",
+    "language"
+  ],
+  "author": "Bence Dányi <bence@danyi.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madbence/node-ngram/issues"
+  },
+  "homepage": "https://github.com/madbence/node-ngram"
+}
