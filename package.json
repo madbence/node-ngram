@@ -4,8 +4,9 @@
   "description": "generate ngram tokens from a string",
   "main": "index.js",
   "scripts": {
-    "test": "mocha",
-    "test-bg": "mocha -w",
+    "test": "./test.sh",
+    "test-es5": "mocha",
+    "test-es5-bg": "mocha -w",
     "test-es6": "mocha --harmony test-es6/*",
     "test-es6-bg": "mocha --harmony -w test-es6/*"
   },
